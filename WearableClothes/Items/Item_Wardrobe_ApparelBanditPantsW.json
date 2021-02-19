@@ -1,10 +1,10 @@
 {
   "$type": "ThunderRoad.ItemData, Assembly-CSharp",
-  "id": "ApparelBanditBootsW",
+  "id": "ApparelBanditPantsW",
   "saveFolder": "Bas",
   "version": 4,
   "localizationId": null,
-  "displayName": "ApparelBanditBootsW",
+  "displayName": "ApparelBanditPantsW",
   "description": null,
   "author": "Unknown",
   "price": 0.0,
@@ -16,8 +16,8 @@
     "Apparels"
   ],
   "iconEffectId": null,
-  "iconAddress": "Bas.Item.Melee.Greatsword.Claymore.Icon",
-  "prefabAddress": "WearableApparel",
+  "iconAddress": null,
+    "prefabAddress": "WearableApparel",
   "pooledCount": 0,
   "androidPooledCount": 0,
   "type": "Wardrobe",
@@ -51,11 +51,11 @@
       "wardrobes": [
         {
           "creatureName": "HumanMale",
-          "wardrobeDataAddress": "Bas.Creature.Wardrobe.HumanMale.Bandit.Boots"
+          "wardrobeDataAddress": "Bas.Creature.Wardrobe.HumanMale.Bandit.Pants"
         },
         {
           "creatureName": "HumanFemale",
-          "wardrobeDataAddress": "Bas.Creature.Wardrobe.HumanFemale.Bandit.Boots"
+          "wardrobeDataAddress": "Bas.Creature.Wardrobe.HumanFemale.Bandit.Pants"
         }
       ]
     }

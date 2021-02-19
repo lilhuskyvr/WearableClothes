@@ -3,6 +3,35 @@ D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\M
 C:\Users\nikon\RiderProjects\WearableClothes\WearableClothes\obj\Release\WearableClothes.csprojResolveAssemblyReference.cache
 C:\Users\nikon\RiderProjects\WearableClothes\WearableClothes\obj\Release\WearableClothes.dll
 C:\Users\nikon\RiderProjects\WearableClothes\WearableClothes\obj\Release\WearableClothes.pdb
-D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Template.json
 D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\manifest.json
 D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Game.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelBanditBootsW.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelBanditGloveLW.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelBanditGloveRW.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelBanditHelmetW.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelBanditJacketW.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelBanditPantsW.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelBattlemageBootsW.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelBattlemageCloakW.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelBattlemageGloveLW.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelBattlemageGloveRW.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelBattlemageJacketW.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelBattlemagePantsW.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelGladiatorBootsW.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelGladiatorGloveLW.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelGladiatorGloveRW.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelGladiatorHeadbandW.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelGladiatorJacketW.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelGladiatorShoulderRW.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelShirt01W.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelShirt02W.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelShirt03W.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelShirt04W.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelSoldierBootsW.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelSoldierGloveLW.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelSoldierGloveRW.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelSoldierHelmetW.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelSoldierJacketW.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelSoldierPantsW.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelSoldierShoulderLW.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelSoldierShoulderRW.json

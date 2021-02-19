@@ -22,7 +22,7 @@ namespace WearableClothes
         {
             yield return new WaitForSeconds(1);
 
-            var itemData = Catalog.GetData<ItemData>(item.itemId);
+            var itemData = Catalog.GetData<ItemData>(item.data.id);
             item.holder.UnSnap(item);
             item.Despawn(1);
             creature.equipment.EquipWardrobe(
