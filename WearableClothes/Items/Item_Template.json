@@ -1,0 +1,17 @@
+﻿{
+  "$type": "ThunderRoad.ItemData, Assembly-CSharp",
+  "id": "TEMPLATE",
+  "saveFolder": "Bas",
+  "version": 4,
+  "slot": "Medium",
+  "prefabAddress": "WearableApparel",
+  "purchasable": true,
+  "modules": [
+    {
+      "$type": "WearableClothes.WearableApparelItemModule, WearableClothes"
+    }
+  ],
+  "categoryPath": [
+    "Apparels"
+  ]
+}

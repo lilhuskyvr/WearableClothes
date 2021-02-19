@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6A8369E3-6CA2-4611-9A9E-B48B8E589B75}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WearableClothes</RootNamespace>
+    <AssemblyName>WearableClothes</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>D:\Steam\steamapps\common\Blade &amp; Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>D:\Steam\steamapps\common\Blade &amp; Sorcery\BladeAndSorcery_Data\Managed\Assembly-CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>D:\Steam\steamapps\common\Blade &amp; Sorcery\BladeAndSorcery_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="WearableApparelItemModule.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Game.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Items\Item_Template.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Items\Item_Wardrobe_ApparelBanditBootsW.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelBanditGloveL.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelBanditGloveR.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelBanditHelmet.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelBanditJacket.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelBanditPants.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelBattlemageBoots.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelBattlemageCloak.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelBattlemageGloveL.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelBattlemageGloveR.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelBattlemageJacket.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelBattlemagePants.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelGladiatorBoots.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelGladiatorGloveL.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelGladiatorGloveR.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelGladiatorHeadband.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelGladiatorJacket.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelGladiatorShoulderR.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelMercenaryBoots.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelMercenaryGloveL.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelMercenaryGloveR.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelMercenaryHelmet.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelMercenaryJacket.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelMercenaryPants.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelShirt01.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelShirt02.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelShirt03.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelShirt04.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelSoldierBoots.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelSoldierGloveL.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelSoldierGloveR.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelSoldierHelmet.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelSoldierJacket.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelSoldierPants.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelSoldierShoulderL.json" />
+    <Content Include="Items\Item_Wardrobe_ApparelSoldierShoulderR.json" />
+    <Content Include="manifest.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+               Other similar extension points exist, see Microsoft.Common.targets.
+          <Target Name="BeforeBuild">
+          </Target>
+          <Target Name="AfterBuild">
+          </Target>
+          -->
+</Project>

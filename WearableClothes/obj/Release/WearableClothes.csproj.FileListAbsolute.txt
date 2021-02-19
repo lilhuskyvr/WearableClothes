@@ -1,0 +1,8 @@
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\WearableClothes.dll
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\WearableClothes.pdb
+C:\Users\nikon\RiderProjects\WearableClothes\WearableClothes\obj\Release\WearableClothes.csprojResolveAssemblyReference.cache
+C:\Users\nikon\RiderProjects\WearableClothes\WearableClothes\obj\Release\WearableClothes.dll
+C:\Users\nikon\RiderProjects\WearableClothes\WearableClothes\obj\Release\WearableClothes.pdb
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Template.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\manifest.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Game.json
