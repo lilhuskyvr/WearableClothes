@@ -17,7 +17,7 @@
   ],
   "iconEffectId": null,
   "iconAddress": null,
-    "prefabAddress": "WearableApparel",
+  "prefabAddress": "ApparelSoldierJacketW",
   "pooledCount": 0,
   "androidPooledCount": 0,
   "type": "Wardrobe",
