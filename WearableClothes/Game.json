@@ -1,9 +1,29 @@
 {
-    "categories": [
+  "categories": [
     {
-     "name": "Apparels",
+      "name": "Leather Set",
+      "iconAddress": "Bas.Icon.shuriken",
+      "effectId": null
+    },
+    {
+      "name": "Plate Set",
+      "iconAddress": "Bas.Icon.shuriken",
+      "effectId": null
+    },
+    {
+      "name": "Mage Set",
+      "iconAddress": "Bas.Icon.shuriken",
+      "effectId": null
+    },
+    {
+      "name": "Gladiator Set",
+      "iconAddress": "Bas.Icon.shuriken",
+      "effectId": null
+    },
+    {
+      "name": "Casual Set",
       "iconAddress": "Bas.Icon.shuriken",
       "effectId": null
     }
-  ] 
+  ]
 }

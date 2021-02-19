@@ -4,7 +4,7 @@
   "saveFolder": "Bas",
   "version": 4,
   "localizationId": null,
-  "displayName": "ApparelBanditBootsW",
+  "displayName": "Bandit Boots",
   "description": null,
   "author": "Unknown",
   "price": 0.0,
@@ -13,10 +13,10 @@
   "levelRequired": 0,
   "isStackable": false,
   "categoryPath": [
-    "Apparels"
+    "Leather Set"
   ],
   "iconEffectId": null,
-  "iconAddress": "Bas.Item.Melee.Greatsword.Claymore.Icon",
+  "iconAddress": null,
   "prefabAddress": "WearableApparel",
   "pooledCount": 0,
   "androidPooledCount": 0,
