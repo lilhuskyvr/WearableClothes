@@ -21,11 +21,11 @@ namespace WearableClothes
 
         private IEnumerator EquipWardrobe(Creature creature, Item item)
         {
+            yield return new WaitForSeconds(1);
+            
             var itemData = Catalog.GetData<ItemData>(item.data.id);
             item.holder.UnSnap(item, true);
             item.Despawn();
-            
-            yield return new WaitForSeconds(1);
 
             var content = new ContainerData.Content(itemData);
             

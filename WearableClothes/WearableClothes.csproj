@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="WearableApparelItemModule.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WearableStripItemModule.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Game.json">
@@ -141,6 +142,9 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="Items\Item_Wardrobe_ApparelSoldierShoulderRW.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Items\Item_Wardrobe_ApparelUnderwearW.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="manifest.json">

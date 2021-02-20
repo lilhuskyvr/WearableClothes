@@ -35,3 +35,4 @@ D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\M
 D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelSoldierPantsW.json
 D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelSoldierShoulderLW.json
 D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelSoldierShoulderRW.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelUnderwearW.json

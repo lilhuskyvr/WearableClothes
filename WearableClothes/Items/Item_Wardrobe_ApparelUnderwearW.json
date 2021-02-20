@@ -1,10 +1,10 @@
 {
   "$type": "ThunderRoad.ItemData, Assembly-CSharp",
-  "id": "ApparelGladiatorJacketW",
+  "id": "ApparelUnderwearW",
   "saveFolder": "Bas",
   "version": 4,
   "localizationId": null,
-  "displayName": "Gladiator Jacket",
+  "displayName": "Underwear",
   "description": null,
   "author": "Unknown",
   "price": 0.0,
@@ -13,7 +13,7 @@
   "levelRequired": 0,
   "isStackable": false,
   "categoryPath": [
-    "Gladiator Set"
+    "Casual Set"
   ],
   "iconEffectId": null,
   "iconAddress": null,
@@ -43,21 +43,7 @@
   "customSnaps": [],
   "modules": [
     {
-      "$type": "WearableClothes.WearableApparelItemModule, WearableClothes"
-    },
-    {
-      "$type": "ThunderRoad.ItemModuleWardrobe, Assembly-CSharp",
-      "category": "Apparel",
-      "wardrobes": [
-        {
-          "creatureName": "HumanMale",
-          "wardrobeDataAddress": "Bas.Creature.Wardrobe.HumanMale.Gladiator.Jacket"
-        },
-        {
-          "creatureName": "HumanFemale",
-          "wardrobeDataAddress": "Bas.Creature.Wardrobe.HumanFemale.Gladiator.Jacket"
-        }
-      ]
+      "$type": "WearableClothes.WearableStripItemModule, WearableClothes"
     }
   ],
   "colliderGroups": [],
