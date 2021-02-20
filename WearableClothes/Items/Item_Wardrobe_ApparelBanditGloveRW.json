@@ -1,10 +1,10 @@
 {
   "$type": "ThunderRoad.ItemData, Assembly-CSharp",
-  "id": "ApparelBanditBootsW",
+  "id": "ApparelBanditGloveRW",
   "saveFolder": "Bas",
   "version": 4,
   "localizationId": null,
-  "displayName": "Bandit Boots",
+  "displayName": "Bandit Right Glove",
   "description": null,
   "author": "Unknown",
   "price": 0.0,
@@ -51,11 +51,11 @@
       "wardrobes": [
         {
           "creatureName": "HumanMale",
-          "wardrobeDataAddress": "Bas.Creature.Wardrobe.HumanMale.Bandit.Boots"
+          "wardrobeDataAddress": "Bas.Creature.Wardrobe.HumanMale.Bandit.GloveRight"
         },
         {
           "creatureName": "HumanFemale",
-          "wardrobeDataAddress": "Bas.Creature.Wardrobe.HumanFemale.Bandit.Boots"
+          "wardrobeDataAddress": "Bas.Creature.Wardrobe.HumanFemale.Bandit.GloveRight"
         }
       ]
     }

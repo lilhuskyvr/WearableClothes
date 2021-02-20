@@ -1,23 +1,23 @@
 {
   "$type": "ThunderRoad.ItemData, Assembly-CSharp",
-  "id": "ApparelBanditBootsW",
+  "id": "ApparelShirt03W",
   "saveFolder": "Bas",
   "version": 4,
   "localizationId": null,
-  "displayName": "Bandit Boots",
+  "displayName": "Shirt C",
   "description": null,
-  "author": "Unknown",
+  "author": "Houdi",
   "price": 0.0,
   "purchasable": true,
   "tier": 0,
   "levelRequired": 0,
   "isStackable": false,
   "categoryPath": [
-    "Leather Set"
+    "Casual Set"
   ],
   "iconEffectId": null,
   "iconAddress": null,
-  "prefabAddress": "WearableApparel",
+    "prefabAddress": "WearableApparel",
   "pooledCount": 0,
   "androidPooledCount": 0,
   "type": "Wardrobe",
@@ -51,11 +51,11 @@
       "wardrobes": [
         {
           "creatureName": "HumanMale",
-          "wardrobeDataAddress": "Bas.Creature.Wardrobe.HumanMale.Bandit.Boots"
+          "wardrobeDataAddress": "Bas.Creature.Wardrobe.HumanMale.Shirt03"
         },
         {
           "creatureName": "HumanFemale",
-          "wardrobeDataAddress": "Bas.Creature.Wardrobe.HumanFemale.Bandit.Boots"
+          "wardrobeDataAddress": "Bas.Creature.Wardrobe.HumanFemale.Shirt03"
         }
       ]
     }

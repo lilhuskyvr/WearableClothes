@@ -1,10 +1,10 @@
 {
   "$type": "ThunderRoad.ItemData, Assembly-CSharp",
-  "id": "ApparelBanditBootsW",
+  "id": "ApparelBanditHelmetW",
   "saveFolder": "Bas",
   "version": 4,
   "localizationId": null,
-  "displayName": "Bandit Boots",
+  "displayName": "Bandit Helmet",
   "description": null,
   "author": "Unknown",
   "price": 0.0,
@@ -17,7 +17,7 @@
   ],
   "iconEffectId": null,
   "iconAddress": null,
-  "prefabAddress": "WearableApparel",
+    "prefabAddress": "WearableApparel",
   "pooledCount": 0,
   "androidPooledCount": 0,
   "type": "Wardrobe",
@@ -51,11 +51,11 @@
       "wardrobes": [
         {
           "creatureName": "HumanMale",
-          "wardrobeDataAddress": "Bas.Creature.Wardrobe.HumanMale.Bandit.Boots"
+          "wardrobeDataAddress": "Bas.Creature.Wardrobe.HumanMale.Bandit.Helmet"
         },
         {
           "creatureName": "HumanFemale",
-          "wardrobeDataAddress": "Bas.Creature.Wardrobe.HumanFemale.Bandit.Boots"
+          "wardrobeDataAddress": "Bas.Creature.Wardrobe.HumanFemale.Bandit.Helmet"
         }
       ]
     }

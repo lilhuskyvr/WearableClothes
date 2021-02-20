@@ -1,10 +1,10 @@
 {
   "$type": "ThunderRoad.ItemData, Assembly-CSharp",
-  "id": "ApparelBanditBootsW",
+  "id": "ApparelUnderwearW",
   "saveFolder": "Bas",
   "version": 4,
   "localizationId": null,
-  "displayName": "Bandit Boots",
+  "displayName": "Underwear",
   "description": null,
   "author": "Unknown",
   "price": 0.0,
@@ -13,11 +13,11 @@
   "levelRequired": 0,
   "isStackable": false,
   "categoryPath": [
-    "Leather Set"
+    "Casual Set"
   ],
   "iconEffectId": null,
   "iconAddress": null,
-  "prefabAddress": "WearableApparel",
+    "prefabAddress": "WearableApparel",
   "pooledCount": 0,
   "androidPooledCount": 0,
   "type": "Wardrobe",
@@ -43,21 +43,7 @@
   "customSnaps": [],
   "modules": [
     {
-      "$type": "WearableClothes.WearableApparelItemModule, WearableClothes"
-    },
-    {
-      "$type": "ThunderRoad.ItemModuleWardrobe, Assembly-CSharp",
-      "category": "Apparel",
-      "wardrobes": [
-        {
-          "creatureName": "HumanMale",
-          "wardrobeDataAddress": "Bas.Creature.Wardrobe.HumanMale.Bandit.Boots"
-        },
-        {
-          "creatureName": "HumanFemale",
-          "wardrobeDataAddress": "Bas.Creature.Wardrobe.HumanFemale.Bandit.Boots"
-        }
-      ]
+      "$type": "WearableClothes.WearableStripItemModule, WearableClothes"
     }
   ],
   "colliderGroups": [],

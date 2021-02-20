@@ -1,10 +1,10 @@
 {
   "$type": "ThunderRoad.ItemData, Assembly-CSharp",
-  "id": "ApparelBanditBootsW",
+  "id": "ApparelSoldierShoulderRW",
   "saveFolder": "Bas",
   "version": 4,
   "localizationId": null,
-  "displayName": "Bandit Boots",
+  "displayName": "Plate Shoulder Right",
   "description": null,
   "author": "Unknown",
   "price": 0.0,
@@ -13,11 +13,11 @@
   "levelRequired": 0,
   "isStackable": false,
   "categoryPath": [
-    "Leather Set"
+    "Plate Set"
   ],
   "iconEffectId": null,
   "iconAddress": null,
-  "prefabAddress": "WearableApparel",
+    "prefabAddress": "WearableApparel",
   "pooledCount": 0,
   "androidPooledCount": 0,
   "type": "Wardrobe",
@@ -51,11 +51,7 @@
       "wardrobes": [
         {
           "creatureName": "HumanMale",
-          "wardrobeDataAddress": "Bas.Creature.Wardrobe.HumanMale.Bandit.Boots"
-        },
-        {
-          "creatureName": "HumanFemale",
-          "wardrobeDataAddress": "Bas.Creature.Wardrobe.HumanFemale.Bandit.Boots"
+          "wardrobeDataAddress": "Bas.Creature.Wardrobe.HumanMale.Soldier.ShoulderRight"
         }
       ]
     }
