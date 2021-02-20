@@ -25,7 +25,7 @@ namespace WearableClothes
             item.holder.UnSnap(item, true);
             item.Despawn();
 
-            creature.equipment.UnequipAllWardrobes(true);
+            creature.equipment.EquipAllWardrobes(true);
 
             yield return null;
         }
