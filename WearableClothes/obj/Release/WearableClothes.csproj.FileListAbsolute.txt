@@ -36,3 +36,9 @@ D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\M
 D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelSoldierShoulderLW.json
 D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelSoldierShoulderRW.json
 D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelUnderwearW.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelMercenaryBootsW.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelMercenaryGloveLW.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelMercenaryGloveRW.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelMercenaryHelmetW.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelMercenaryJacketW.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WearableClothes\Items\Item_Wardrobe_ApparelMercenaryPantsW.json

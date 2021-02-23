@@ -1,0 +1,75 @@
+{
+  "$type": "ThunderRoad.ItemData, Assembly-CSharp",
+  "id": "ApparelMercenaryJacketW",
+  "saveFolder": "Bas",
+  "version": 4,
+  "prefabAddress": "WearableApparel",
+  "pooledCount": 0,
+  "androidPooledCount": 0,
+  "allowDecals": false,
+  "type": "Wardrobe",
+  "slot": "Medium",
+  "snapAudioContainerAddress": null,
+  "mass": 1.0,
+  "drag": 1.0,
+  "angularDrag": 1.0,
+  "manaRegenMultiplier": 1.0,
+  "spellChargeSpeedPlayerMultiplier": 1.0,
+  "spellChargeSpeedNPCMultiplier": 1.0,
+  "collisionMaxOverride": 0,
+  "collisionEnterOnly": false,
+  "collisionNoMinVelocityCheck": false,
+  "forceLayer": "None",
+  "flyFromThrow": false,
+  "flyRotationSpeed": 2.0,
+  "flyThrowAngle": 0.0,
+  "telekinesisSafeDistance": 1.0,
+  "telekinesisSpinEnabled": true,
+  "telekinesisThrowRatio": 1.0,
+  "grippable": false,
+  "customSnaps": [],
+  "modules": [{
+    "$type": "WearableClothes.WearableApparelItemModule, WearableClothes"
+  },
+    {
+      "$type": "ThunderRoad.ItemModuleWardrobe, Assembly-CSharp",
+      "category": "Apparel",
+      "wardrobes": [
+        {
+          "creatureName": "HumanMale",
+          "wardrobeDataAddress": "Bas.Creature.Wardrobe.HumanMale.Mercenary.Jacket"
+        },
+        {
+          "creatureName": "HumanFemale",
+          "wardrobeDataAddress": "Bas.Creature.Wardrobe.HumanFemale.Mercenary.Jacket"
+        }
+      ]
+    }
+  ],
+  "colliderGroups": [],
+  "damagers": [],
+  "Interactables": [
+    {
+      "transformName": "Handle",
+      "interactableId": "ObjectHandleHeavy",
+      "overrideHandPose": true,
+      "handPoseId": "GrappleSkull"
+    }
+  ],
+  "effectHinges": [],
+  "whooshs": [],
+  "localizationId": null,
+  "displayName": "Mercenary Jacket",
+  "description": null,
+  "author": "Unknown",
+  "price": 0.0,
+  "purchasable": true,
+  "tier": 0,
+  "levelRequired": 0,
+  "isStackable": false,
+  "categoryPath": [
+    "Mercenary Set"
+  ],
+  "iconEffectId": null,
+  "iconAddress": null
+}

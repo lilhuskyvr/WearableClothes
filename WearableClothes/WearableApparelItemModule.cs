@@ -1,7 +1,9 @@
 ﻿using System.Collections;
+using System.IO;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Converters;
 using ThunderRoad;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 namespace WearableClothes
 {
@@ -37,10 +39,12 @@ namespace WearableClothes
                     ContainerData.Content wornContent = creature.equipment.GetWornContent(
                         wardrobe.manikinWardrobeData.channels[index], wardrobe.manikinWardrobeData.layers[index]);
                     if (wornContent != null)
-                        GameManager.playerData.inventory.Remove(wornContent);
+                    {
+                        Player.characterData.inventory.Remove(wornContent);
+                    }
                 }
 
-                GameManager.playerData.inventory.Add(content);
+                Player.characterData.inventory.Add(content);
             }
 
             creature.equipment.EquipWardrobe(

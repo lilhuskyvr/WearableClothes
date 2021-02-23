@@ -21,6 +21,11 @@
       "effectId": null
     },
     {
+      "name": "Mercenary Set",
+      "iconAddress": "Bas.Icon.shuriken",
+      "effectId": null
+    },
+    {
       "name": "Casual Set",
       "iconAddress": "Bas.Icon.shuriken",
       "effectId": null
